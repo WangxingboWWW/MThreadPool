@@ -3,7 +3,9 @@ ThreadPool
 
 ## README
 adapted from https://github.com/progschj/ThreadPool
+
 How to use:
+
 Change class member function DoWork::linearWork() according to requirements
 
 ## original README

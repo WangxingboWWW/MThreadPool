@@ -1,11 +1,12 @@
 ThreadPool
 ==========
 
-# adapted from https://github.com/progschj/ThreadPool
-# How to use:
-# Change class member function DoWork::linearWork() according to requirements
+## README
+adapted from https://github.com/progschj/ThreadPool
+How to use:
+Change class member function DoWork::linearWork() according to requirements
 
-# original README
+## original README
 A simple C++11 Thread Pool implementation.
 
 Basic usage:
